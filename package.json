@@ -11,10 +11,14 @@
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
     "express": "~4.13.4",
+    "mongoose": "^4.6.5",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
-    "eslint": "^3.9.0"
+    "angular": "^1.5.8",
+    "eslint": "^3.9.0",
+    "eslint-config": "^0.3.0",
+    "eslint-plugin-angular": "^1.4.1"
   }
 }
